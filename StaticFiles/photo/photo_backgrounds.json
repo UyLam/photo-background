@@ -70,5 +70,9 @@
   {
     "path": "StaticFiles/photo/photo_9.jpg",
     "color": "#328A94"
+  },
+  {
+    "path": "StaticFiles/photo/default-task.jpg",
+    "color": "#1830CC"
   }
 ]
